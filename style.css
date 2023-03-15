@@ -1,14 +1,19 @@
 :root {
     --main-color: #11A9BA;
     --main-color-clear:#11A9BA70;
-    --second-color: #BA5911;
-    --second-color-clear:#BA591170;
+    --second-color: #BA2211;
+    --second-color-clear:#BA221170;
     --third-color: #6E2F00;
     --third-color-clear:#6E2F0070;
     --dark-color: #05636E;
     --dark-color-clear: #05636E70;
     --link-color: #30EAFF;
     --light-color: white;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* Modify default fonts */
@@ -65,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 .title-segment {
     text-align: center;
     margin-bottom: 12px;
-    padding: 12px;
+    padding: 24px;
     font-size: 54pt;
     font-family: "Exo";
     font-weight: 200;
@@ -96,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 .divider {
     position: relative;
     left: -50%;
-    height: 240px;
+    height: 160px;
     width: 200%;
     margin-top: 68px;
     margin-bottom: 68px;
@@ -105,19 +110,19 @@ h1, h2, h3, h4, h5, h6 {
 
 .segment-footer {
     color: white;
-    height: 100px;
+    height: 80px;
     margin-top: 20px;
     padding: 8px;
 }
 
 .segment-dark-sm, .segment-light-sm {
-    min-height: 350px;
+    min-height: 250px;
     padding: 26px;
 }
 
 .segment-dark, .segment-light {
-    min-height: 500px;
-    padding: 26px;
+    min-height: 400px;
+    padding: 18px;
 }
 
 .segment-dark, .segment-dark-sm, .segment-footer {
@@ -145,11 +150,13 @@ h1, h2, h3, h4, h5, h6 {
 .showcase-box:hover {
     background-color: var(--second-color);
     transition: background-color 0.2s;
+    transform: scale(1.01);
 }
 
 .showcase-box:hover * {
     color: white !important;
     transition: color 0.2s;
+    transform: scale(1);
 }
 
 .img-showcase {
