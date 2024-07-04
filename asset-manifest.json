@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d62e910.css",
+    "main.js": "/static/js/main.931b379d.js",
+    "static/js/592.847afb62.chunk.js": "/static/js/592.847afb62.chunk.js",
+    "static/media/ProjectAngel-Dave.gif": "/static/media/ProjectAngel-Dave.080f0b026e63d839dd11.gif",
+    "static/media/TheExpanse-manipulate.webm": "/static/media/TheExpanse-manipulate.8da0d7c52829769fd8cd.webm",
+    "static/media/TheExpanse-shortOrbit.webm": "/static/media/TheExpanse-shortOrbit.1a2ba36a945d3fc11598.webm",
+    "static/media/PDT-game.png": "/static/media/PDT-game.00e6e144495f33315154.png",
+    "static/media/TheExpanse-MainMenu.png": "/static/media/TheExpanse-MainMenu.a81b96356e462b9e549d.png",
+    "static/media/TheExpanse-longOrbit.webm": "/static/media/TheExpanse-longOrbit.ca257e158a71ba131039.webm",
+    "static/media/PDT-demo.png": "/static/media/PDT-demo.0975f7b32d9947c24ff1.png",
+    "static/media/PDT-abilitiesAll.png": "/static/media/PDT-abilitiesAll.26fe7f9fdb8f7a8591cf.png",
+    "static/media/ProjectAngel-Fence.webm": "/static/media/ProjectAngel-Fence.bc8fb3cbe3c19d7770e8.webm",
+    "static/media/SalemInTheSky-mainMenu.png": "/static/media/SalemInTheSky-mainMenu.e03a6fe11a57dc5e608d.png",
+    "static/media/PDT-meleeAttackAbility.png": "/static/media/PDT-meleeAttackAbility.98b20b48c6602d0262fe.png",
+    "static/media/PDT-choice.png": "/static/media/PDT-choice.075fd259ca8de1e75212.png",
+    "static/media/ProjectAngel-Editor.webm": "/static/media/ProjectAngel-Editor.9cd50b489d0743b5a142.webm",
+    "static/media/PDT-abilities2.png": "/static/media/PDT-abilities2.9967f3f046e220cfff84.png",
+    "static/media/ProjectAngel-grid.png": "/static/media/ProjectAngel-grid.c5d8abe3997f96ab22d7.png",
+    "static/media/PDT-abilities.png": "/static/media/PDT-abilities.dc2f6219c19358874926.png",
+    "static/media/PDT-depDiagram.png": "/static/media/PDT-depDiagram.99ef5afd02eee654185e.png",
+    "static/media/PDT-turnSystem.png": "/static/media/PDT-turnSystem.4ec5c29fbd4dfa027454.png",
+    "static/media/PDT-commandsDebugger.png": "/static/media/PDT-commandsDebugger.fe9386b7b2917db8d306.png",
+    "static/media/PDT-automatedTesting.png": "/static/media/PDT-automatedTesting.afd18a0d60a0c53750ea.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2d62e910.css.map": "/static/css/main.2d62e910.css.map",
+    "main.931b379d.js.map": "/static/js/main.931b379d.js.map",
+    "592.847afb62.chunk.js.map": "/static/js/592.847afb62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d62e910.css",
+    "static/js/main.931b379d.js"
+  ]
+}
